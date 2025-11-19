@@ -6,3 +6,5 @@
 3. [Extra resources](3-extra)
 
 <!-- 🎓 A certificate of completion is available for this course here: https://courses.supersimple.dev/courses/html-css -->
+
+[HTML-CSS Reference PDF](https://supersimpledev.github.io/references/html-css-reference.pdf)
